@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>ToolkitPatchLib</identifier>
+  <version>1.0.0</version>
+  <dependencies>
+    <li>TwitchToolkit</li>
+  </dependencies>
+  <incompatibleWith />
+  <loadAfter>
+    <li>TwitchToolkit</li>
+  </loadAfter>
+</Manifest>

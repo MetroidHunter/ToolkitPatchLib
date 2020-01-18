@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ModMetaData>
+  <name>ToolkitPatchLib</name>
+  <author>droydn</author>
+  <url />
+  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+  <description>Common tools to help integrate mods into Twitch Toolkit</description>
+</ModMetaData>
